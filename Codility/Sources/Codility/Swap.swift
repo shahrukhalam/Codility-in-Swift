@@ -5,7 +5,7 @@ func swappedUsingThirdVariable<T>(first: inout T, second: inout T) {
     second = third
 }
 
-func swappedUsingThirdVariable<T: Numeric>(first: inout T, second: inout T) {
+func swappedWithoutUsingThirdVariable<T: Numeric>(first: inout T, second: inout T) {
     first = first + second
     second = first - second
     first = first - second

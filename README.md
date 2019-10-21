@@ -6,3 +6,4 @@
 1. [Swap Two Variables](https://github.com/shahrukhalam/Codility-in-Swift/blob/master/Codility/Sources/Codility/Swap.swift)
 2. [Sort DateStrings](https://github.com/shahrukhalam/CodilityInSwift/blob/master/Codility/Sources/Codility/SortDateStrings.swift)
 3. [Reverse a Sentence](https://github.com/shahrukhalam/CodilityInSwift/blob/master/Codility/Sources/Codility/ReverseSentence.swift)
+4. [Anagram](https://github.com/shahrukhalam/CodilityInSwift/blob/master/Codility/Sources/Codility/Anagram.swift)
